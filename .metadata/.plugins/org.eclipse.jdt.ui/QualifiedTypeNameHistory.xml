@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Collection"/>
+    <fullyQualifiedTypeName name="com.jspiders.Student"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="com.sortinglogic.StudentSortById"/>
+    <fullyQualifiedTypeName name="com.sortinglogic.StudentSortByAge"/>
+    <fullyQualifiedTypeName name="com.sortinglogic.StudentSortByName"/>
+    <fullyQualifiedTypeName name="com.sortinglogic.StudentSortByMarks"/>
+    <fullyQualifiedTypeName name="com.customException.ProductNotFoundException"/>
+    <fullyQualifiedTypeName name="com.customException.InvalidChoiceException"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="com.jspiders.Product"/>
+    <fullyQualifiedTypeName name="SortingLogic.SortProductById"/>
+    <fullyQualifiedTypeName name="SortingLogic.SortProductByName"/>
+    <fullyQualifiedTypeName name="SortingLogic.SortProductByCost"/>
+    <fullyQualifiedTypeName name="SortingLogic.SortProductByQuantity"/>
+    <fullyQualifiedTypeName name="com.jspiders.HotelManagementSystem"/>
+    <fullyQualifiedTypeName name="com.jspiders.HotelManagementSystemImpl"/>
+    <fullyQualifiedTypeName name="java.util.LinkedHashMap"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.concurrent.ConcurrentHashMap.KeySetView"/>
+    <fullyQualifiedTypeName name="com.Exception.InvalidChoiceException"/>
+    <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+    <fullyQualifiedTypeName name="com.Exception.InvalidQuantityException"/>
+    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
+    <fullyQualifiedTypeName name="javax.persistence.Id"/>
+    <fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
+    <fullyQualifiedTypeName name="com.ltim.CovidDao.CovidDao"/>
+    <fullyQualifiedTypeName name="net.bytebuddy.matcher.ElementMatcher"/>
+    <fullyQualifiedTypeName name="javax.persistence.EntityTransaction"/>
+    <fullyQualifiedTypeName name="javax.persistence.EntityManagerFactory"/>
+    <fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
+    <fullyQualifiedTypeName name="org.hibernate.Query"/>
+    <fullyQualifiedTypeName name="com.mysql.cj.Query"/>
+    <fullyQualifiedTypeName name="javax.persistence.Persistence"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.ltim.model.Coviddata"/>
+    <fullyQualifiedTypeName name="javax.persistence.Query"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.ltim.exception.InvalidChoiceException"/>
+    <fullyQualifiedTypeName name="com.ltim.CovidDaoImpl.CovidDaoImpl"/>
+</qualifiedTypeNameHistroy>
